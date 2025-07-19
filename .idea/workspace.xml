@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5404e7aa-e90f-4da8-a8ef-1cf0e59b929c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module-11/demo/myapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csd-325.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2yTA9tcWJtwMNEV7LESP0Pryeoz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_cities.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI_Todo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chohan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_functions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forestfiresim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sitka_highs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5404e7aa-e90f-4da8-a8ef-1cf0e59b929c" name="Changes" comment="" />
+      <created>1749848041818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749848041818</updated>
+      <workItem from="1749848043064" duration="396000" />
+      <workItem from="1749848454900" duration="18000" />
+      <workItem from="1749848616365" duration="15000" />
+      <workItem from="1749849041985" duration="662000" />
+      <workItem from="1749850959284" duration="212000" />
+      <workItem from="1749851245079" duration="3252000" />
+      <workItem from="1749905055527" duration="11000" />
+      <workItem from="1749914803155" duration="16000" />
+      <workItem from="1749915280149" duration="1645000" />
+      <workItem from="1749929788707" duration="2000" />
+      <workItem from="1750099114565" duration="18000" />
+      <workItem from="1750283598162" duration="278000" />
+      <workItem from="1750529543986" duration="130000" />
+      <workItem from="1750613621787" duration="1518000" />
+      <workItem from="1750618530177" duration="2000" />
+      <workItem from="1750618552638" duration="430000" />
+      <workItem from="1750619357836" duration="189000" />
+      <workItem from="1750889938277" duration="3000" />
+      <workItem from="1751127680331" duration="324000" />
+      <workItem from="1751128027904" duration="19000" />
+      <workItem from="1751129054705" duration="2000" />
+      <workItem from="1751129071643" duration="793000" />
+      <workItem from="1751129896063" duration="157000" />
+      <workItem from="1751130066542" duration="1921000" />
+      <workItem from="1751137349129" duration="702000" />
+      <workItem from="1751138150473" duration="1000" />
+      <workItem from="1751405520975" duration="2000" />
+      <workItem from="1751667632172" duration="2000" />
+      <workItem from="1751667642615" duration="1192000" />
+      <workItem from="1751668891389" duration="308000" />
+      <workItem from="1752352094402" duration="2105000" />
+      <workItem from="1752427714167" duration="214000" />
+      <workItem from="1752429235646" duration="1000" />
+      <workItem from="1752873699955" duration="234000" />
+      <workItem from="1752942012204" duration="966000" />
+      <workItem from="1752943115574" duration="1870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module-11/demo/demo/urls.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/city_functions_py$.coverage" NAME=" Coverage Results" MODIFIED="1751130756860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-7" />
+    <SUITE FILE_PATH="coverage/forestfiresim_py$forestfiresim.coverage" NAME="forestfiresim Coverage Results" MODIFIED="1750618462777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-5" />
+    <SUITE FILE_PATH="coverage/city_functions_py_py$city_functions_py.coverage" NAME="city_functions.py Coverage Results" MODIFIED="1751129843382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-7" />
+    <SUITE FILE_PATH="coverage/csd_325$chohan.coverage" NAME="chohan Coverage Results" MODIFIED="1749848394348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-3" />
+    <SUITE FILE_PATH="coverage/test_cities_py$.coverage" NAME=" Coverage Results" MODIFIED="1751130042531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-7" />
+    <SUITE FILE_PATH="coverage/api_test_py$api_test.coverage" NAME="api_test Coverage Results" MODIFIED="1751669143969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-9" />
+    <SUITE FILE_PATH="coverage/students_py$students.coverage" NAME="students Coverage Results" MODIFIED="1751137620703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-8" />
+    <SUITE FILE_PATH="coverage/city_functions_py$city_functions.coverage" NAME="city_functions Coverage Results" MODIFIED="1751130747082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-7" />
+    <SUITE FILE_PATH="coverage/sitka_highs_py$sitka_highs.coverage" NAME="sitka_highs Coverage Results" MODIFIED="1749904276480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-4" />
+    <SUITE FILE_PATH="coverage/GUI_Todo_py$GUI_Todo.coverage" NAME="GUI_Todo Coverage Results" MODIFIED="1752354131351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module-10" />
+  </component>
+</project>
